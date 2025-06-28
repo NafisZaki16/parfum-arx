@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177304289440",
+    "project_id": "parfum-arex",
+    "storage_bucket": "parfum-arex.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177304289440:android:c54e50dbcb94b3dc1809c5",
+        "android_client_info": {
+          "package_name": "com.example.mobile_parfum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsDC4CJmihjfEPqP11lfFpSx7nA7vNhSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
